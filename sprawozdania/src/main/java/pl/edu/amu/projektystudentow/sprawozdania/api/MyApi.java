@@ -11,7 +11,6 @@ import java.util.Optional;
 @RequestMapping(value = "api")
 public class MyApi {
 
-
     //purpose of this classs is just to gather every used endpoint, i would divide it later
 //
 //    .get(`${process.env.REACT_APP_API}/groups/${id}`)
